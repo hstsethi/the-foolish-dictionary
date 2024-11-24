@@ -2,11 +2,15 @@
 
 This project is based on HTML, plain text version of The Foolish Dictionary provided by [Project Gutenberg](https://www.gutenberg.org/ebooks/1989). The goal of this project is to provide a machine readable version of it.
 
-Currently, the JSON version, list of terms and the scripts used to create such is available. 
+NOTE: This work does contain vulgar language, which inherited from the original version. To maintain consistency, such language is not censored.
+
+Currently, the JSON version, list of terms, stardict version and the scripts used to create these versions are available. 
 
 ## TODO
 
 - Convert it to other versions including Stardict.
 
-- Create a program that will query the JSON document to return it's associated definition.
+~~- Create a program that will query the JSON document to return it's associated definition.~~
+
+Why reinvent the wheel? Programs like SDCV, GoldenDict already exist.
 
