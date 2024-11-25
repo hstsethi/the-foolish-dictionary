@@ -1,7 +1,9 @@
 StarDict's dict ifo file
 version=3.0.0
-bookname=the-foolish-dictionary.tab
+bookname=the-foolish-dictionary
 wordcount=601
 idxfilesize=9487
-description=
+description=The Foolish Dictionary by Gideon Wurdz is a whimsical collection of humorous definitions and playful reflections on the English language.
 author=HstSethi
+email=hstsethi@outlook.com
+website=https://github.com/hstsethi/the-foolish-dictionary

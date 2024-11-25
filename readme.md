@@ -8,7 +8,7 @@ Currently, the JSON version, list of terms, stardict version and the scripts use
 
 ## TODO
 
-- Convert it to other versions including Stardict.
+~~- Convert it to other versions including Stardict.~~
 
 ~~- Create a program that will query the JSON document to return it's associated definition.~~
 

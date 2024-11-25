@@ -7,6 +7,5 @@ filename="the-foolish-dictionary.json"
 
 output_filename="the-foolish-dictionary.tab"
 
-sed 's/\"//g' $filename | sed 's/,$//g' | sed 's/:/\t/g' > $output_filename
-
+sed 's/\"//g; 1d; s/,$//g; s/:/\t/g' $filename > $output_filename
 
